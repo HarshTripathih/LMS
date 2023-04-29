@@ -1,0 +1,36 @@
+{
+  "Books": [
+    {
+      "title": "After many summer ",
+      "author": "Aldous Huxley",
+      "publisher": "stephen",
+      "release_date": "2007-02-21",
+      "pages": "1000",
+      "id": 1
+    },
+    {
+      "title": "Alien Corn ",
+      "author": "Sidney Howard",
+      "publisher": "Jordan lary",
+      "release_date": "2023-03-26",
+      "pages": "1500",
+      "id": 2
+    },
+    {
+      "title": "Lord of The Ring ",
+      "author": "J.R.R Tolkien",
+      "publisher": "andrew tate",
+      "release_date": "2022-02-01",
+      "pages": "890",
+      "id": 4
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": " Jane Austen",
+      "publisher": "Markus Zusak ",
+      "release_date": "2023-04-14",
+      "pages": "580",
+      "id": 5
+    }
+  ]
+}
